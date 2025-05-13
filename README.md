@@ -78,7 +78,7 @@ This project is licensed under the MIT License.
 ## 🙋‍♀️ Contact
 
 For feedback, suggestions, or partnerships:
-📧 shyam.123pandey@example.com  
+📧 shyampandey2625@gmail.com  
 🔗 [GitHub Profile](https://github.com/Shyam-123pandey)
 
 ---
